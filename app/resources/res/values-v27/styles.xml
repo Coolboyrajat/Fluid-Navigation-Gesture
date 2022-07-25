@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:textColorTertiary">@color/textColorTertiary</item>
+        <item name="android:statusBarColor">@color/colorBackgroundAlpha</item>
+        <item name="android:navigationBarColor">@color/colorAccentDarkAlpha</item>
+        <item name="?0x10104e0">true</item>
+        <item name="?0x101056c">false</item>
+        <item name="colorBackgroundDark">@color/colorBackgroundDark</item>
+        <item name="colorBackgroundLight">@color/colorBackgroundLight</item>
+    </style>
+</resources>

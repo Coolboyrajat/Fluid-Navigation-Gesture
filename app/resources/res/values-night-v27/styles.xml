@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="android:colorBackground">@color/colorNightBackground</item>
+        <item name="android:textColorPrimary">@color/textNightColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textNightColorSecondary</item>
+        <item name="android:textColorTertiary">@color/textNightColorTertiary</item>
+        <item name="android:statusBarColor">@color/colorNightBackgroundAlpha</item>
+        <item name="android:navigationBarColor">@color/colorAccentDarkAlpha</item>
+        <item name="?0x10104e0">false</item>
+        <item name="?0x101056c">false</item>
+        <item name="colorAccent">@color/colorAccentLight</item>
+        <item name="colorBackgroundDark">@color/colorNightBackgroundDark</item>
+        <item name="colorBackgroundLight">@color/colorNightBackgroundLight</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+    <style name="AppThemeBlack">
+        <item name="android:colorBackground">@color/colorBlackBackground</item>
+        <item name="android:statusBarColor">@color/colorBlackBackgroundAlpha</item>
+        <item name="android:navigationBarColor">@color/colorAccentDarkAlpha</item>
+        <item name="colorBackgroundDark">@color/colorBlackBackground</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="md_background_color">@color/colorBlackBackgroundLight</item>
+    </style>
+</resources>

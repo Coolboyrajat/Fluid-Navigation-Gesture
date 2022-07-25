@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat">
+    </style>
+    <style name="Platform.AppCompat.Light">
+    </style>
+    <style name="Platform.V25.AppCompat">
+    </style>
+    <style name="Platform.V25.AppCompat.Light">
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_toolbar_help_24px" android:id="@+id/action_help" android:orderInCategory="99" android:title="@string/header_help" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_app_theme" android:orderInCategory="100" android:title="@string/header_app_theme" app:showAsAction="never"/>
+    <item android:id="@+id/action_backup" android:orderInCategory="101" android:title="@string/header_backup" app:showAsAction="never"/>
+    <item android:id="@+id/action_permissions" android:orderInCategory="102" android:title="@string/header_permissions" app:showAsAction="never"/>
+    <item android:id="@+id/action_about" android:orderInCategory="104" android:title="@string/header_about" app:showAsAction="never"/>
+</menu>

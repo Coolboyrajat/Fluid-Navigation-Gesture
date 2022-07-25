@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/layout_root" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.p131fb.fluid.p148ui.views.ExtRecyclerView android:id="@+id/recycler_view" android:clipToPadding="false" android:descendantFocusability="blocksDescendants" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/indicator" android:visibility="gone" android:layout_width="50dp" android:layout_height="50dp" android:indeterminate="true" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="@+id/recycler_view" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="?android:attr/progressBarStyle"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

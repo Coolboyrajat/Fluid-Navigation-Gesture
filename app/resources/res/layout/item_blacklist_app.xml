@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/but_icon" android:layout_width="72dp" android:layout_height="84dp" android:layout_marginLeft="0dp" android:layout_marginTop="0dp" android:layout_marginRight="8dp" android:layout_marginBottom="8dp">
+    <FrameLayout android:orientation="vertical" android:id="@+id/img_add" android:background="@drawable/bg_blacklist_app_outline_ripple" android:padding="8dp" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="84dp" android:outlineProvider="background">
+        <androidx.appcompat.widget.AppCompatImageView android:layout_gravity="center" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/ic_menu_plus_circle_outline" android:tint="?android:attr/textColorSecondary"/>
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/layout_app" android:background="@drawable/bg_blacklist_app_outline_ripple" android:padding="8dp" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:outlineProvider="background">
+        <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatImageView android:layout_gravity="center" android:id="@+id/img_icon" android:layout_width="40dp" android:layout_height="40dp" android:layout_margin="4dp"/>
+            <androidx.appcompat.widget.AppCompatImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="@+id/img_badge_icon" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/ic_menu_badge_delete_24px"/>
+        </FrameLayout>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/font_small" android:ellipsize="end" android:layout_gravity="center_horizontal" android:id="@+id/txt_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="asd" android:singleLine="true"/>
+    </LinearLayout>
+</FrameLayout>

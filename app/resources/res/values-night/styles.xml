@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="android:colorBackground">@color/colorNightBackground</item>
+        <item name="android:textColorPrimary">@color/textNightColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textNightColorSecondary</item>
+        <item name="android:textColorTertiary">@color/textNightColorTertiary</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="colorBackgroundDark">@color/colorNightBackgroundDark</item>
+        <item name="colorBackgroundLight">@color/colorNightBackgroundLight</item>
+        <item name="colorOnPrimary">#ffffff</item>
+    </style>
+    <style name="AppTheme.Overlay">
+        <item name="android:colorBackground">@color/colorNightBackground</item>
+        <item name="android:textColorPrimary">@color/textNightColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textNightColorSecondary</item>
+        <item name="android:textColorTertiary">@color/textNightColorTertiary</item>
+        <item name="colorBackgroundDark">@color/colorNightBackgroundDark</item>
+        <item name="colorBackgroundLight">@color/colorNightBackgroundLight</item>
+    </style>
+    <style name="AppThemeBlack">
+        <item name="android:colorBackground">@color/colorBlackBackground</item>
+        <item name="colorBackgroundDark">@color/colorBlackBackground</item>
+        <item name="colorBackgroundLight">@color/colorBlackBackground</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="md_background_color">@color/colorBlackBackgroundLight</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert">
+    </style>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth">
+    </style>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge">
+    </style>
+    <style name="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+    </style>
+    <style name="ThemeOverlay.AppCompat.DayNight">
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog">
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface">
+    </style>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface">
+    </style>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface">
+    </style>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface">
+    </style>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface">
+    </style>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface">
+    </style>
+</resources>

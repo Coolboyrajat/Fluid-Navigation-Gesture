@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" style="@style/MD_ListItem.Choice">
+    <androidx.appcompat.widget.AppCompatRadioButton android:id="@+id/md_control" style="@style/MD_ListItem_Control"/>
+    <com.afollestad.materialdialogs.internal.rtl.RtlTextView android:id="@+id/md_title" style="@style/MD_ListItemText.Choice"/>
+</LinearLayout>

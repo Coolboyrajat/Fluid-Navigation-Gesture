@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/layout_root" android:paddingLeft="4dp" android:paddingTop="8dp" android:paddingRight="4dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <include layout="@layout/view_divider"/>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/font_small" android:textColor="?android:attr/textColorSecondary" android:id="@+id/txt_label" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_vertical_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" android:text="[header]" android:textAllCaps="false" android:fontFamily="sans-serif-medium" app:textAllCaps="true"/>
+</LinearLayout>

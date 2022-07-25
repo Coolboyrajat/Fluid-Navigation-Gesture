@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" style="@style/MD_GridItem">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.afollestad.materialdialogs.bottomsheets.HeightMatchesWidthImageView android:id="@+id/md_grid_icon" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="center"/>
+        <com.afollestad.materialdialogs.internal.rtl.RtlTextView android:id="@+id/md_grid_title" style="@style/MD_GridItemText"/>
+    </LinearLayout>
+</FrameLayout>
