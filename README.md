@@ -15,7 +15,7 @@ You can Download sources SDK from [here]() manualy. Folder Contain SDK from Andr
 
 Selected Download [Click Here]().
 
-### Install [Gradle](https://services.gradle.org/distributions/gradle-7.3.3-bin.zip) <img src="gradle.png" height="50" width="100"/>
+### Install [Gradle <img src="gradle.png" height="25" width="107"/>](https://downloads.gradle-dn.com/distributions/gradle-7.5-bin.zip)
  - [Release](https://gradle.org/releases/)
  - [Github Page](https://github.com/gradle/gradle)
  
