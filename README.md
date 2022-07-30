@@ -1,5 +1,5 @@
 
-#  <img src="ic_launcher.png" height=50 width=50/> Fluid Navigation Gesture (FNG)
+# <img align="left" src="ic_launcher.png" height=50 width=50/><p align="left">Fluid Navigation Gesture (FNG)</p>
 
 ## What's New:
 
