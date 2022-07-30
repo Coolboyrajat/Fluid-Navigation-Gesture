@@ -26,4 +26,8 @@ Selected Download [Click Here]().
  - [Release](https://gradle.org/releases/)
  - [Github Page](https://github.com/gradle/gradle)
  
+ Installation Directory
+ 
+    C:\Users\{Admin Name}\.gradle\wrapper\dists\gradle-7.3.3-bin\6a41zxkdtcxs8rphpq6y0069z
+ 
 ## - Contributer's: 
