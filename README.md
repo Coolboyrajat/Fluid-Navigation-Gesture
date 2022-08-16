@@ -1,6 +1,9 @@
 
 # <img align="left" src="/app/resources/res/mipmap-xxxhdpi-v4/ic_launcher.png" height=50 width=50/><p align="left">Fluid Navigation Gesture (FNG)</p>
 
+## About:
+   Since the app is no longer maintained by the soul owner we continuing the legacy unofficially 
+
 ## What's New:
 
  >version 2.1
