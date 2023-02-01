@@ -2,16 +2,20 @@
 # <img align="left" src="/app/resources/res/mipmap-xxxhdpi-v4/ic_launcher.png" height=50 width=50/><p align="left">Fluid Navigation Gesture (FNG)</p>
 
 ## About:
-   Since the app is no longer maintained by the soul owner we continuing the legacy unofficially 
+   Since the app is no longer maintained by the soul owner we continuing the legacy unofficially.
 
 ## What's New:
 
- >version 2.1
+ >version 3.0
 
-- Updated SDK from OREO 8.1 to Andriod 13 Support.
-- Disable if any app is being used in landscape mode on Potrait Enabled.
+- Updated SDK from `OREO 8.1 to Android 13.`
+- Option to `Hide App icon.`
+- Unsymmetrical division of Number of Actions.
 - Change Bug Report Link.
 
+ >Known Issues:
+
+- Bug with One UI 4.1: Where hint to adjust the Location and Size are not visible.
 
 ## Requirements:
 
