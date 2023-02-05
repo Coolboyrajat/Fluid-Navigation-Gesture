@@ -11,6 +11,9 @@
 - Updated SDK from `OREO 8.1 to Android 13.`
 - Option to `Hide App icon.`
 - Unsymmetrical division of Number of Actions.
+- Remove permission (No permission required to run the app, which means your data is not going anywhere.);
+- Integrating Dynamic Notch Cutout Gesture [Example → PlayStore](https://play.google.com/store/apps/details?id=com.dynamic.notifications);
+- Integrating Circle Sidebar Gesture [Example → PlayStore](https://play.google.com/store/apps/details?id=com.zeeshan.circlesidebar);
 - Change Bug Report Link.
 
  >Known Issues:
