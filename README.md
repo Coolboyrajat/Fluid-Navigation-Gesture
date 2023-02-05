@@ -10,8 +10,8 @@
 
 - Updated SDK from `OREO 8.1 to Android 13.`
 - Option to `Hide App icon.`
-- Unsymmetrical division of Number of Actions.
-- Remove permission (No permission required to run the app, which means your data is not going anywhere.);
+- Unsymmetrical division in the Number of Actions.
+- Remove all permission (No internet permission required to run the app, which means your data is not going anywhere.);
 - Integrating Dynamic Notch Cutout Gesture [Example → PlayStore](https://play.google.com/store/apps/details?id=com.dynamic.notifications);
 - Integrating Circle Sidebar Gesture [Example → PlayStore](https://play.google.com/store/apps/details?id=com.zeeshan.circlesidebar);
 - Change Bug Report Link.
@@ -19,6 +19,8 @@
  >Known Issues:
 
 - Bug with One UI 4.1: Where hint to adjust the Location and Size are not visible.
+
+### 👉🏼 [Click Here to View Prototype](https://www.figma.com/proto/mBgc3PmCIkM0hG3isAGR6p/Fluid-Navigation-Gesture?node-id=4%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2) 👈🏼
 
 ## Requirements:
 
