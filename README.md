@@ -20,7 +20,10 @@
 
 - Bug with One UI 4.1: Where hint to adjust the Location and Size are not visible.
 
-### 👉🏼 [Click Here to View Prototype](https://www.figma.com/proto/mBgc3PmCIkM0hG3isAGR6p/Fluid-Navigation-Gesture?node-id=4%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2) 👈🏼
+<img align="center" src="/Preview.jpg" height=900px width=400px/>
+
+### 👉🏼 [Click Here to View Prototype](https://www.figma.com/proto/mBgc3PmCIkM0hG3isAGR6p/Fluid-Navigation-Gesture?node-id=4%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2) 👈🏼  
+>⭐ Recommended: Use Figma App for best experience.
 
 ## Requirements:
 
@@ -43,3 +46,4 @@ Selected Download [Click Here]().
     C:\Users\{Admin Name}\.gradle\wrapper\dists\gradle-7.3.3-bin\6a41zxkdtcxs8rphpq6y0069z
  
 ## - Contributer's: 
+>Contact me if your are a app developer
