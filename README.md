@@ -20,7 +20,7 @@
 
 - Bug with One UI 4.1: Where hint to adjust the Location and Size are not visible.
 
-<img align="center" src="/Preview.jpg" height=900px width=400px/>
+<img align="center" src="/Preview 2.png" height=900px width=400px/>
 
 ### 👉🏼 [Click Here to View Prototype](https://www.figma.com/proto/mBgc3PmCIkM0hG3isAGR6p/Fluid-Navigation-Gesture?node-id=4%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2) 👈🏼  
 >⭐ Recommended: Use Figma App for best experience.
