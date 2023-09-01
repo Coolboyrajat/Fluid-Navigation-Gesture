@@ -24,7 +24,9 @@
 ## DemoPreview:
 
 <p align="center"> 👉🏼 First Glance 👈🏼 </p>
-![First Glance](https://github.com/Coolboyrajat/Fluid-Navigation-Gesture/assets/67316346/35a57b2c-0447-4805-9c5f-58582ebb0d43)
+
+![First Glance](https://github.com/Coolboyrajat/Fluid-Navigation-Gesture/assets/67316346/d497fa76-c6ad-48cc-9af9-fb02d15d2a57)
+
 
  
 ## - Contributor's: 
