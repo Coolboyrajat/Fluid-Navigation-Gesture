@@ -30,6 +30,6 @@
 
  
 ## - Contributor's: 
->Contact me if you are an app developer
+>Contact me here if you are an app developer
 
-[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/XyXSrNU5TN)
+[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg" height='50' width='150' />](https://discord.gg/SrHVtCWUKW)
